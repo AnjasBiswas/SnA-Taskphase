@@ -16,20 +16,6 @@ Follow the instrcution on screen to play the game.
 * checkWin() - Checks for the winner symbol and returns the symbol
 * main() - Mode selector for game calls the functions according to the logic of game, in the end checks for the winner and displays the winner.
 
-## Getting Started
-
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
 
 ## Acknowledgments
 
